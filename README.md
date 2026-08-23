@@ -1,7 +1,7 @@
 # 🎮 Unity YT Learning 1 Project
 
 <p align="center">
-  <img src="Photos/Banner.png" alt="Project Banner" width="900">
+  <img src="Photos/banner.png" alt="Project Banner" width="900">
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ The following screenshots show the project in action. (Images will be added to t
 </a>
 
 <a href="Photos/Videos/Screenshot2.png">
-<img src="Photos/Picture3.png" alt="Screenshot 2" width="320">
+<img src="Photos/picture3.png" alt="Screenshot 2" width="320">
 </a>
 </div>
 
